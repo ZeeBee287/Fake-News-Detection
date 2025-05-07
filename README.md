@@ -114,10 +114,12 @@ Starting with logistic regression provided a strong baseline, showing that class
 
 ---
 
-## 🙌 Acknowledgments
+## 📚 Tools & Libraries
 
-* HuggingFace 🤗
-* Scikit-learn
-* Google Colab
-
+* HuggingFace Transformers
+* scikit-learn
+* PyTorch
+* Pandas, Numpy
+* Google Colab GPU
+  
 ---
