@@ -16,6 +16,9 @@ The dataset was compiled by combining:
 
 Each entry combines the **title** and **text** into a single `content` column. A subset of 10,000 shuffled samples was used for experiments to keep runtime feasible on Google Colab.
 
+The dataset used in this project is publicly available on Kaggle:
+[Fake and Real News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
+
 ---
 
 ## 📉 Baseline Model: Logistic Regression
